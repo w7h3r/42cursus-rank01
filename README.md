@@ -1,4 +1,4 @@
-| Project            | Score    |
+| Project            | Grade    |
 |--------------------|----------|
 | born2beroot        | 110/100 ✅ |
 | ft_printf          | 100/100 ✅ |
